@@ -1,7 +1,7 @@
 ![1](1.gif)![2](2.gif)![7](7.gif)![3](3.gif)
 
 <details><summary>My PGP Public key</summary>
-</pre>
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBGOR9eYBCAC+OlKuYZvsFYpolF533DuAIzQn4HhuBEd5DVcNXufSqf4bQati
