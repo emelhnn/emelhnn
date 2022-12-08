@@ -1,6 +1,7 @@
 ![1](1.gif)![2](2.gif)![7](7.gif)![3](3.gif)
 
 <details><summary>My PGP Public key</summary>
+<p>
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -33,5 +34,6 @@ RoXEJzsZogTtbjGTxL7lNi4jOXjtOaNTfpeejOtme/4NKxzPxj6hE5Sm
 =VMAe
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+</p>
 </details>
 
